@@ -10,4 +10,4 @@ A simple two-player dice game made with JavaScript, where the objective is to re
 
 ## Acknowledgements
 * User interface (HTML/CSS) created by Jonas Schmedtmann
-* Program functionality (JavaScript) programmed by me
+* Program functionality (JavaScript) programmed by Tommi Riiheläinen
